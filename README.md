@@ -1,6 +1,6 @@
 # DC-Motor-Torque-Controller
 
-A PID controller designed to controll current and hence the Torque of a DC Motor. This is a part of the project that is currently under review at the IROS 2018 conference. The main aim of this project was to control the torque output of a DC motor. The DC motor characteristics states that its Torque output is directly proportional to the current flowing through the motor armature. Thus a simple  PID Controller was tuned to control the current flowing through the DC Motor. The block diagram below shows the entire procedure 
+A PID controller designed to controll current and hence the Torque of a DC Motor. This is a part of the project that is currently under review at the IROS 2018 conference. Arduino Uno and current sensor ACS712 were used in the control circuit. The main aim of this project was to control the torque output of a DC motor. The DC motor characteristics states that its Torque output is directly proportional to the current flowing through the motor armature. Thus a simple  PID Controller was tuned to control the current flowing through the DC Motor. The block diagram below shows the entire procedure 
 
 ![torque_1](https://user-images.githubusercontent.com/15217992/40603997-3471cfd6-627b-11e8-9bf3-36a8a7526b3b.PNG)
 
